@@ -1,7 +1,7 @@
 <div align="center">
 
 # ExoCogs Translations
-This repository contains everything required to translate [the game](https://store.steampowered.com/app/563560/) into any [language supported by Steam](https://partner.steamgames.com/doc/store/localization/languages).  
+This repository contains everything required to translate [the game](https://store.steampowered.com/app/3331670/) into any [language supported by Steam](https://partner.steamgames.com/doc/store/localization/languages).  
 
 </div>
 
